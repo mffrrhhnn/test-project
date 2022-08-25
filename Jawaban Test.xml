@@ -1,0 +1,29 @@
+Soal Front-End :
+Answer :
+1. -- Bootstrap
+    Alasan : # tentu karena komunitas developernya yang besar, jadi memudahkan sekali
+            jika mengalami kesulitan
+            # Mudah dipahami bagi pemula 
+    -- Foundation
+    Alasan : # Fitur nya yang selalu update
+
+2. --Next.js (8-10)
+    --vue.js (7-10)
+    --React.js (6-10)
+
+3. Axios, karena penggunaanya sedikit lebih mudah dari Fetch, Jquery, atau yang lainnya
+    selain itu juga, axios di dukung oleh banyak browser.
+
+4. yang paling umum diketahui yaitu Method GET dan POST
+method GET digunakan untuk memanggil atau meminta data dari sumber daya,
+dan POST yaitu untuk mengirim data ke server, kemudia server akan melakukan create/update
+sumber daya.
+ada lagi diantaranya :
+- Method PUT
+PUT digunakan untuk mengirim data ke server untuk membuat / memperbarui sumber daya.
+-Method HEAD
+HEAD hampir identik dengan GET, tetapi tanpa body response. Dengan kata lain, 
+jika GET / pengguna mengembalikan daftar pengguna, maka HEAD / pengguna akan 
+membuat permintaan yang sama tetapi tidak akan mengembalikan daftar pengguna.
+-Method DELETE digunakan untuk menghapus sumber daya yang ditentukan.
+-Metode OPTIONS digunakan untuk menjelaskan opsi komunikasi untuk sumber daya target
